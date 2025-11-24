@@ -14,7 +14,6 @@
     <td width="55%" valign="top">
       <h3>👨‍💻 The Engineer</h3>
       <blockquote>I am a <strong>Front-End Engineer</strong> focused on scalability and performance. With a solid academic background in <strong>Information Systems (UFPE)</strong>, I go beyond "making it look good"—I build robust architectures that drive business results.</blockquote>
-      <br />
       <h3>🚀 High-Impact Cases</h3>
       <p><strong>🛍️ Zema Marketplace (Lighthouse)</strong><br />
       <em>Mid-Level Front-End Developer</em></p>
@@ -49,13 +48,7 @@
         <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white"/>
       </div>
       <br />
-      <h3 align="center">📊 Activity</h3>
-      <div align="center">
-        <a href="https://github.com/julio-bem"><img src="https://github-readme-stats.vercel.app/api?username=julio-bem&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" width="100%" alt="GitHub Stats" /></a>
-        <br />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julio-bem&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" alt="Top Languages" />
-      </div>
-    </td>
+<div style="text-align:center"><h3>🧩 Engineering Principles</h3><p style="font-style:italic;margin:0 0 8px 0">I build software guided by principles that ensure long-term quality, scalability and user-centered impact.</p><p style="margin:0">🔸 <strong>Performance First</strong>—Fast interfaces, optimized bundles, zero unnecessary re-renders.<br>🔸 <strong>Scalable Architecture</strong>—Components as building blocks, predictable patterns, clean separations.<br>🔸 <strong>Design × Engineering Harmony</strong>—UI/UX decisions aligned with technical reality.<br>🔸 <strong>Maintainability Over Hacks</strong>—Code that future developers can understand and extend.<br>🔸 <strong>Business-Driven Development</strong>—Features that directly impact KPIs, conversion and UX.<br>🔸 <strong>Reliable Engineering</strong>—Testing culture: unit → integration → end-to-end.<br>🔸 <strong>Developer Experience</strong>—Tools, scripts and abstractions that speed up teams.</p></div>
   </tr>
 </table>
 <div align="center">
