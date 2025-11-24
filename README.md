@@ -13,7 +13,7 @@
   <tr>
     <td width="55%" valign="top">
       <h3>👨‍💻 The Engineer</h3>
-      <blockquote>I am a <strong>Front-End Engineer</strong> focused on scalability and performance. With a solid academic background in <strong>Information Systems (UFPE)</strong>, I go beyond "making it look good"—I build robust architectures that drive business results.</blockquote>
+      <blockquote>I am a <strong>Front-End Engineer</strong> focused on scalability and performance. With a solid academic background in <strong>Information Systems (UFPE)</strong>, I go beyond "making it look good", I build robust architectures that drive business results.</blockquote>
       <h3>🚀 High-Impact Cases</h3>
       <p><strong>🛍️ Zema Marketplace (Lighthouse)</strong><br />
       <em>Mid-Level Front-End Developer</em></p>
